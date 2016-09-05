@@ -1,7 +1,12 @@
 body {
     font-family: Algerian, serif;
+/*<<<<<<< HEAD*/
     background: cyan;
     width: 970px;
+/*=======*/
+    /*background: gray;*/
+    /*margin: 0 auto;*/
+/*>>>>>>> new_style*/
 }
 
 .first_paragraph {
